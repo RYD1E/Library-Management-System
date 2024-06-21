@@ -25,8 +25,8 @@ Ensure you have Python 3.8 or later installed. You can download it from [Python'
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/RYD1E/Library-Management-System.git
+    cd Library-Management-System
     ```
 
 2. Create a virtual environment and activate it:
@@ -36,13 +36,7 @@ Ensure you have Python 3.8 or later installed. You can download it from [Python'
     source env/bin/activate   # On Windows use `env\Scripts\activate`
     ```
 
-3. Create a `requirements.txt` file with the following content:
-
-    ```txt
-    # This project only uses Python's standard library modules
-    ```
-
-4. Install the required dependencies:
+3. Install the required dependencies:
 
     ```sh
     pip install -r requirements.txt
@@ -53,4 +47,5 @@ Ensure you have Python 3.8 or later installed. You can download it from [Python'
 To run the application, execute the following command:
 
 ```sh
-python main.py
+python library_management_system/main.py
+```
