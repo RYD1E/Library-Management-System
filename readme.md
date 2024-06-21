@@ -49,3 +49,11 @@ To run the application, execute the following command:
 ```sh
 python library_management_system/main.py
 ```
+
+### Running the Tests
+
+To run the tests, execute the following command:
+
+```sh
+python -m unittest discover -s tests
+```
