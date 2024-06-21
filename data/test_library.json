@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "title": "Test Book",
+            "author": "Test Author",
+            "isbn": "1234567890",
+            "available": false
+        }
+    ],
+    "checkouts": [
+        {
+            "user_id": "testuser123",
+            "isbn": "1234567890"
+        }
+    ],
+    "users": [
+        {
+            "name": "Updated Test User",
+            "user_id": "testuser123"
+        }
+    ]
+}

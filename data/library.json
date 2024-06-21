@@ -1,0 +1,122 @@
+{
+    "books": [
+        {
+            "title": "The Guide",
+            "author": "R.K. Narayan",
+            "isbn": "9788185986075",
+            "available": true
+        },
+        {
+            "title": "Malgudi Days",
+            "author": "R.K. Narayan",
+            "isbn": "9788185986105",
+            "available": true
+        },
+        {
+            "title": "A Suitable Boy",
+            "author": "Vikram Seth",
+            "isbn": "9780140230338",
+            "available": false
+        },
+        {
+            "title": "God of Small Things",
+            "author": "Arundhati Roy",
+            "isbn": "9780006550686",
+            "available": true
+        },
+        {
+            "title": "Train to Pakistan",
+            "author": "Khushwant Singh",
+            "isbn": "9780143065883",
+            "available": true
+        },
+        {
+            "title": "The White Tiger",
+            "author": "Aravind Adiga",
+            "isbn": "9781416562603",
+            "available": false
+        },
+        {
+            "title": "The Inheritance of Loss",
+            "author": "Kiran Desai",
+            "isbn": "9780143055716",
+            "available": true
+        },
+        {
+            "title": "Midnight's Children",
+            "author": "Salman Rushdie",
+            "isbn": "9780141186887",
+            "available": true
+        },
+        {
+            "title": "The Namesake",
+            "author": "Jhumpa Lahiri",
+            "isbn": "9780618485222",
+            "available": true
+        },
+        {
+            "title": "Shantaram",
+            "author": "R.K Narayan",
+            "isbn": "9780312330538",
+            "available": true
+        },
+        {
+            "title": "The English Teacher",
+            "author": "R.K. Narayan",
+            "isbn": "9788185986173",
+            "available": true
+        }
+    ],
+    "users": [
+        {
+            "name": "Ravi Kumar",
+            "user_id": "RK001"
+        },
+        {
+            "name": "Amit Sharma",
+            "user_id": "AS002"
+        },
+        {
+            "name": "Suman Gupta",
+            "user_id": "SG003"
+        },
+        {
+            "name": "Lakshmi Iyer",
+            "user_id": "LI004"
+        },
+        {
+            "name": "Pooja Singh",
+            "user_id": "PS005"
+        },
+        {
+            "name": "Anil Mehta",
+            "user_id": "AM006"
+        },
+        {
+            "name": "Neha Verma",
+            "user_id": "NV007"
+        },
+        {
+            "name": "Vikram Reddy",
+            "user_id": "VR008"
+        },
+        {
+            "name": "Deepak Patel",
+            "user_id": "DP009"
+        },
+        {
+            "name": "Kavita Nair",
+            "user_id": "KN010"
+        }
+    ],
+    "checkouts": [
+        {
+            "user_id": "RK001",
+            "isbn": "9780140230338"
+        },
+        {
+            "user_id": "AS002",
+            "isbn": "9781416562603"
+        }
+    ]
+}
